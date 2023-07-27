@@ -1,0 +1,6 @@
+huggingface_hub
+datasets
+ipython
+ipykernel
+jupyter
+python-iconv
